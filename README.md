@@ -1,6 +1,6 @@
-# socilamedia_one_flutter
+# socila media app 
 
-A new Flutter project.
+this flutter project is still in working.
 
 ## Getting Started
 
@@ -14,3 +14,22 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+
+-------------------------------
+
+## features 
+- Firebase auth Signup + Login
+- Search for users
+- Ui
+-- Home Screen with story and post
+-- Profile Screen
+-- Edit Screen
+-- Login and Signup Screen
+-- Search Screen
+
+
+
+https://user-images.githubusercontent.com/84328313/206860985-f4f11f61-bdf0-4e28-8542-17a10d61d299.mp4
+
