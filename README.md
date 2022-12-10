@@ -28,7 +28,7 @@ Ui
 - Profile Screen
 - Edit Screen
 - Login and Signup Screen
--- Search Screen
+- Search Screen
 
 
 
