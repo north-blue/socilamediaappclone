@@ -22,11 +22,12 @@ samples, guidance on mobile development, and a full API reference.
 ## features 
 - Firebase auth Signup + Login
 - Search for users
-- Ui
--- Home Screen with story and post
--- Profile Screen
--- Edit Screen
--- Login and Signup Screen
+
+Ui
+- Home Screen with story and post
+- Profile Screen
+- Edit Screen
+- Login and Signup Screen
 -- Search Screen
 
 
